@@ -1,0 +1,38 @@
+#contactform{
+    width: 70%;
+    margin: auto;
+    margin-top: 70px;
+}
+.navbar {
+    background-color: #f0e4d7;
+   height: 80px;
+}
+.nav-item{
+    padding: 10px;
+}
+body{
+    background-image: url('images/front.jpg');
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    font-family: 'Itim', cursive;
+}  
+.btn{
+    margin: 20px auto;
+    
+}
+.row{
+    background-color:#9fe6a0;
+    padding: 100px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+h2{
+    margin-left: 100px;
+}
+#inf{
+    margin-left: 0px;
+}
+ul{
+    margin-top: 20px;
+    margin-left: 80px
+}

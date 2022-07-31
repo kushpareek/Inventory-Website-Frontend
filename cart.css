@@ -1,0 +1,77 @@
+body{
+    text-align: center;
+    font-family: 'Itim', cursive;
+    background-image: url('images/front.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    align-items: center;
+  }
+  
+  .nav-item{
+      padding: 10px;
+  }
+  a{
+    color: #000000;
+  }
+  footer{
+    padding: 20px;
+    background-color: #9fd8df;
+  }
+  .social-icon{
+    margin: 20px;
+  }
+  .navbar {
+    background-color: #f0e4d7;
+    /* box-shadow: 5px 10px  #000000; */
+    
+  }
+  .cart{
+      margin: 80px auto;
+  }
+  table{
+    background-color: #ccffbd;
+    border-radius: 5px;
+      
+      border-collapse: collapse;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  img{
+      width: 80px;
+      height: 80px;
+  }
+  .cart-info{
+      display: flex;
+      flex-wrap: wrap;
+  }
+  th{
+      text-align: left;
+      padding: 5px;
+      color: #fff;
+      background: #fa1e0e;
+      font-weight: normal;
+  }
+  td{
+      padding: 10px 5px;
+  }
+  td input{
+      width: 40px;
+      height: 30px;
+      padding: 5px;
+  }
+  td a{
+      color: #ff523b;
+      font-size: 12px;
+  }
+  td img{
+    width: 80px;
+    height: 80px;
+    margin-right:10px ;
+  }
+  .loadmore{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
